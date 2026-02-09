@@ -93,8 +93,8 @@ pip install -r requirements.txt
 
 Your Name
 
-- LinkedIn: 
-- Email: your.email@example.com
+- LinkedIn 🔗: https://www.linkedin.com/in/devika-y-d-5a4a6b169/
+- Email ✉️: devikayd@gmail.com.com
 
 ## License
 
